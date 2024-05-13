@@ -7,7 +7,7 @@ I'm from Charleston, South Carolina and I'm studying at UofSC.
 ## Contacts
 Email:    johnaaydin@gmail.com
 
-LinkedIn: [johnaaydin](linkedin.com/in/johnaaydin/)
+LinkedIn: [johnaaydin](linkedin.com/in/johnaaydin/)!
 
 I'm always down to collaborate on a project so if you are interested please contact me via email.
 
