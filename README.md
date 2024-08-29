@@ -2,7 +2,7 @@ Hi, I’m John Aydin
 
 ## About Me
 I'm from Charleston, South Carolina and I'm studying at UofSC.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-A-Aydin&layout=compact)
 
 ## Contacts
 Email:    johnaaydin@gmail.com
