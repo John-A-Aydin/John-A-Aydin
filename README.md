@@ -6,9 +6,6 @@ I'm from Charleston, South Carolina and I'm studying at UofSC.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-A-Aydin&layout=compact&theme=rose_pine)
 
 ## Contacts
-Email:    johnaaydin@gmail.com
-
-LinkedIn: [johnaaydin](https://www.linkedin.com/in/johnaaydin/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johnaaydin/" target="_blank">
